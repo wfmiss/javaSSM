@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring.iml" filepath="$PROJECT_DIR$/.idea/Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_spring_aop/demo_spring_aop.iml" filepath="$PROJECT_DIR$/demo_spring_aop/demo_spring_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_spring_helloworld/demo_spring_helloworld.iml" filepath="$PROJECT_DIR$/demo_spring_helloworld/demo_spring_helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_spring_ioc_annotation/demo_spring_ioc_annotation.iml" filepath="$PROJECT_DIR$/demo_spring_ioc_annotation/demo_spring_ioc_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_spring_ioc_xml/demo_spring_ioc_xml.iml" filepath="$PROJECT_DIR$/demo_spring_ioc_xml/demo_spring_ioc_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_spring_proxy/demo_spring_proxy.iml" filepath="$PROJECT_DIR$/demo_spring_proxy/demo_spring_proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_spring_transaction/demo_spring_transaction.iml" filepath="$PROJECT_DIR$/demo_spring_transaction/demo_spring_transaction.iml" />
+    </modules>
+  </component>
+</project>

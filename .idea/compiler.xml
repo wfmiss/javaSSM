@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mode_MyBatis_parameter" />
+        <module name="mode_MyBatis_cache" />
+        <module name="mode_Mybatis_Helloworld" />
+        <module name="mode_MyBatis_resultMap" />
+        <module name="SpringMVC" />
+        <module name="mode_MyBatis_dynamicSQL" />
+        <module name="mode_MyBatis_mbg" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mode_MyBatis_cache" target="8" />
+      <module name="mode_MyBatis_dynamicSQL" target="1.5" />
+      <module name="mode_Mybatis_Helloworld" target="1.5" />
+      <module name="mode_MyBatis_mbg" target="8" />
+      <module name="mode_MyBatis_parameter" target="8" />
+      <module name="mode_MyBatis_resultMap" target="8" />
+      <module name="SpringMVC" target="8" />
+      <module name="SSM_MyBatis_helloword" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
